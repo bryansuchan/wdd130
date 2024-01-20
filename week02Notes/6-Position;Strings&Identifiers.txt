@@ -1,0 +1,12 @@
+# Position
+>The <position> value type represents a set of 2D coordinates, used to position an item such as a background image (via background-position).
+    >It can take keywords such as top, left, bottom, right, and center to align items with specific bounds of a 2D box, along with lengths, which represent offsets from the top and left-hand edges of the box.
+
+>A typical position value consists of two values — the first sets the position horizontally, the second vertically.
+    >If you only specify values for one axis the other will default to center.
+
+# Strings & Identifiers
+>Throughout the examples above, we've seen places where keywords are used as a value (for example <color> keywords like red, black, rebeccapurple, and goldenrod).
+    >These keywords are more accurately described as identifiers, a special value that CSS understands.
+    >As such they are not quoted — they are not treated as strings.
+

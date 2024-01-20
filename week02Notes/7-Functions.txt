@@ -1,0 +1,13 @@
+# Functions
+>In programming, a function is a piece of code that does a specific task. 
+    >Functions are useful because you can write code once, then reuse it many times instead of writing the same logic over and over.
+    >Most programming languages not only support functions but also come with convenient built-in functions for common tasks so you don't have to write them yourself from scratch.
+
+>CSS also has functions, which work in a similar way to functions in other languages.
+    >In fact, we've already seen CSS functions in the Color section above with rgb() and hsl() functions.
+
+>Aside from applying colors, you can use functions in CSS to do a lot of other things.
+    >For example *Transform* functions are a common way to move, rotate, and scale elements on a page.
+    >You might see translate() for moving something horizontally or vertically, rotate() to rotate something, or scale() to make something bigger or smaller.
+
+# Math Functions

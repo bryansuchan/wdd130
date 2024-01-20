@@ -1,0 +1,89 @@
+# Prepare
+**Site Plan Outline**
+>Site plans come in many shapes and sizes and in varying levels of detail. 
+>Here is a list of common elements in a site plan.
+
+1. Statement of purpose and goals
+2. Definition of the target audience
+3. Personas and scenarios (Who will use the site and how will they use it?)
+4. A style guide
+    >Branding Information (how to use the branding for the site correctly)
+    >Typography choices and justification
+    >Color palette
+    >Specific styling of elements on the site (headings, lists, paragraphs, forms, links, buttons, and so on)
+5. A site map
+6. Wireframes showing general layout and content areas for major pages
+
+# Purpose Statement
+>From the beginning, websites have always been about displaying content 
+    >This is the underlying purpose behind every site on the Internet, or at least it should be.
+    >In order to determine which content or functionality you should put on the site, it is critical to determine the purpose or goals of the site. 
+    >The content should support that purpose.
+    >At a high level these purposes can take many forms:
+
+1. Build Revenue : Build revenues for your new/existing business or
+
+2. Share Information : Share corporate or educational information or
+
+3. Share Opinions : Share opinions on a subject
+
+4. Share Personal Interests : Share personal interests with family and friends
+
+>All websites should have a purpose, and that purpose should be more than 'My teacher is making me do this'.
+    >The purpose needs to be defined by the client and stakeholders and not the site developer.
+    >For the course rafting project, you will need to imagine that you are the owner of the rafting business and have decided that it is time for you to have an online presence.
+
+# Target Audience Statement
+>Websites are all about content.
+    >The purpose helps define what content you should include, and the content should target your specific audience or audiences (websites can have more than one).
+    >Some questions and scenarios that can help drive site content include:
+
+1. Who are the target customers? Describe their life (or business) situation (age, financial situation, interests, and so on)
+
+2. What do they want?
+
+3. What do they expect to find or what questions will be answered by them accessing the website?
+
+4. What are their needs that aren't being met?
+
+5. How will my audience usually access my site (desktop, laptop, mobile device)?
+
+# The Style Guide
+**Color Palette**
+>Color plays an essential role in any website and so the colors you use should be chosen deliberately.
+
+>Hue is another term for color
+>Saturation determines how vibrant or how subtle a color can be.
+>Value determines how light or dark the color is.
+
+>Formulas for color harmony:
+1. Monochromatic; this includes saturation and value to create variations and only focuses on one primary color to play with.
+2. Analogous color scheme; this includes colors that are next to each other on the color wheel.
+3. Complementary color schemes are determined by colors opposite each other on the color wheel.
+4. Split Complementary is shown in file "9a"
+5. Triadic is shown in file "9b"
+6. Tetradic uses 2 primary color pairs; see in "9c"
+
+**Fonts / Typography**
+>Typography:
+    >Style or appearance of text
+    >The art of working with text
+
+>Types of fonts:
+    >Serif; because of their classic look, they are preferred for more traditional projects.
+        >They're also common in print publications, like magazines and newspapers.
+    >Sans Serif means "without Serif" in French.
+        >This is considered more clean and modern than Serif
+        >Tends to be easier to read on computer screens, including smart phones and tablets.
+    >Display fonts come in many different styles, such as:
+        >Script
+        >Blackletter
+        >All Caps
+        >Fancy
+    >They can come across as seen in the picture in "9d"
+
+>Hierarchy: Used to guide the reader's eye to whatever is most important, using different levels of emphasis.
+>Leading: The space between lines of text, commonly known as line spacing.
+>Tracking: The overall space between characters, sometimes called character spacing.
+>Kerning: The space between specific characters.
+    >This varies over the word because each letter fits together differently.

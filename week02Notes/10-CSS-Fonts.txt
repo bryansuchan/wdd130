@@ -1,0 +1,15 @@
+# CSS: Cascading Style Sheets
+>Fonts let us display our text characters in a specific style.
+    >We will often want to choose our own font for the text in our web page.
+    >It's always best to keep the different styles of fonts to 2 or at the most 3 per web page.
+    >Title or heading text that is larger can have a more unique looking font.
+    >But keep your paragraph text or smaller fonts with a more easy-to-read type of font.
+
+>TTF: True Type Font
+
+>The following lists 3 font types in the declaration; this is done in case there are compatibility issues with the first, or even the second, options.
+body {
+    font-family: Arial, Verdana, sans-serif
+}
+
+>With web-safe fonts, there is no need to import anything; browsers will recognize web-safe fonts.
